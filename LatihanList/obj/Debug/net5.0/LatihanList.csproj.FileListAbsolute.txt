@@ -1,0 +1,16 @@
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList.deps.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList.runtimeconfig.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList.runtimeconfig.dev.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/ref/LatihanList.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/bin/Debug/net5.0/LatihanList.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.csproj.AssemblyReference.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.GeneratedMSBuildEditorConfig.editorconfig
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.AssemblyInfoInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.AssemblyInfo.cs
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.csproj.CoreCompileInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/ref/LatihanList.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Praktek/Collection/LatihanList/obj/Debug/net5.0/LatihanList.genruntimeconfig.cache
